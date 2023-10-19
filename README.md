@@ -16,14 +16,24 @@
 
 ### 2. PROJECCIÓ PROFESSIONAL
 
-### A) OBJECTIU(S) PROFESSIONAL(S) D’ESPECIALITZACIÓ
+#### A) OBJECTIU(S) PROFESSIONAL(S) D’ESPECIALITZACIÓ
 
-### B) ITINERARI DE FORMACIÓ
+##### Nom de l’especialització professional
+##### Tasques del lloc de treball
+##### Competències tècniques mínimes requerides per exercir l’especialització triada
+##### Competències tècniques addicionals del lloc de treball
+##### Competències personals i socials associades del lloc de treball
+##### Tasques del lloc de treball
+##### Competències tècniques mínimes requerides per exercir l’especialització triada
+##### Competències tècniques addicionals del lloc de treball
+##### Competències personals i socials associades del lloc de treball
 
-### C) CARACTERÍSTIQUES DE LES EMPRESES OBJECTIU 
+#### B) ITINERARI DE FORMACIÓ
+
+#### C) CARACTERÍSTIQUES DE LES EMPRESES OBJECTIU 
 
 ### 3. PLA DE PROMOCIÓ PERSONAL
 
-### A) ESTRATÈGIES 
+#### A) ESTRATÈGIES 
 
-### B) PLA D’ACTUACIÓ
+#### B) PLA D’ACTUACIÓ
