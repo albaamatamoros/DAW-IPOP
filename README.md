@@ -16,6 +16,8 @@
 
 ### 2. PROJECCIÓ PROFESSIONAL
 
+[IPOP-Fitxa1b-Sa Palomera](https://docs.google.com/document/d/1ygJELxCjH11D8QjdpnCH0SOew70aVojA/edit)
+
 #### A) OBJECTIU(S) PROFESSIONAL(S) D’ESPECIALITZACIÓ
 
 ##### Nom de l’especialització professional
@@ -37,9 +39,3 @@
 #### A) ESTRATÈGIES 
 
 #### B) PLA D’ACTUACIÓ
-
-| Column 1 | Column 2 | Column 3 |
-|----------|----------|----------|
-| Row 1    | Cell 2   | Cell 3   |
-| Row 2    | Cell 5   | Cell 6   |
-| Row 3    | Cell 8   | Cell 9   |
