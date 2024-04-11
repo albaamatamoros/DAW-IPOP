@@ -14,3 +14,4 @@
 
 [IPOP-Fitxa1b-Sa Palomera](https://github.com/albaamatamoros/DAW-IPOP/blob/main/FITXES%20IPOP/IPOP-Fitxa1b-Sa%20Palomera.docx.pdf)
 
+[IPOP-Fitxa2b-Sa Palomera]()
