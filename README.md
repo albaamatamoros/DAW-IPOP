@@ -6,9 +6,6 @@
    1.	CURRÍCULUM VITAE COMPETENCIAL
    2.	FITXAS IPOP
 
-#### DATA DE L’INFORME:   
-#### VIST-I-PLAU DEL TUTOR/A:
-
 ### 1. CURRÍCULUM VITAE COMPETENCIAL
 
 [CV Alba Matamoros](https://drive.google.com/file/d/1_-YgO-vJwgk3O5UF4yb5OxKt--BxKLdL/view?usp=sharing)
