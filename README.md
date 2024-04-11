@@ -4,8 +4,7 @@
 #### CICLE FORMATIU: 1 DAW
 
    1.	CURRÍCULUM VITAE COMPETENCIAL
-   2.	PROJECCIÓ PROFESSIONAL
-   3. PLA DE PROMOCIÓ PERSONAL
+   2.	FITXAS IPOP
 
 #### DATA DE L’INFORME:   
 #### VIST-I-PLAU DEL TUTOR/A:
@@ -14,28 +13,7 @@
 
 [CV Alba Matamoros](https://drive.google.com/file/d/1_-YgO-vJwgk3O5UF4yb5OxKt--BxKLdL/view?usp=sharing)
 
-### 2. PROJECCIÓ PROFESSIONAL
+### 2. FITXAS IPOP
 
 [IPOP-Fitxa1b-Sa Palomera](https://docs.google.com/document/d/1ygJELxCjH11D8QjdpnCH0SOew70aVojA/edit)
 
-#### A) OBJECTIU(S) PROFESSIONAL(S) D’ESPECIALITZACIÓ
-
-##### Nom de l’especialització professional
-##### Tasques del lloc de treball
-##### Competències tècniques mínimes requerides per exercir l’especialització triada
-##### Competències tècniques addicionals del lloc de treball
-##### Competències personals i socials associades del lloc de treball
-##### Tasques del lloc de treball
-##### Competències tècniques mínimes requerides per exercir l’especialització triada
-##### Competències tècniques addicionals del lloc de treball
-##### Competències personals i socials associades del lloc de treball
-
-#### B) ITINERARI DE FORMACIÓ
-
-#### C) CARACTERÍSTIQUES DE LES EMPRESES OBJECTIU 
-
-### 3. PLA DE PROMOCIÓ PERSONAL
-
-#### A) ESTRATÈGIES 
-
-#### B) PLA D’ACTUACIÓ
