@@ -12,5 +12,5 @@
 
 ### 2. FITXES IPOP
 
-[IPOP-Fitxa1b-Sa Palomera](https://docs.google.com/document/d/1ygJELxCjH11D8QjdpnCH0SOew70aVojA/edit)
+[IPOP-Fitxa1b-Sa Palomera](https://github.com/albaamatamoros/DAW-IPOP/blob/main/FITXES%20IPOP/IPOP-Fitxa1b-Sa%20Palomera.docx.pdf)
 
