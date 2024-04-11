@@ -8,7 +8,7 @@
 
 ### 1. CURRÍCULUM VITAE COMPETENCIAL
 
-[CV Alba Matamoros](https://drive.google.com/file/d/1_-YgO-vJwgk3O5UF4yb5OxKt--BxKLdL/view?usp=sharing)
+[CV Alba Matamoros](https://github.com/albaamatamoros/PORTFOLIO/blob/main/DOCUMENTOS/Alba%20Matamoros%20cv%202024.pdf)
 
 ### 2. FITXES IPOP
 
