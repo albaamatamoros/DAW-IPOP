@@ -12,7 +12,7 @@
 
 ### 2. FITXES IPOP
 
-#### INFORME PERSONAL D'ORIENTACIÓ PROFESSIONAL (IPOP) FITXA 1
+### INFORME PERSONAL D'ORIENTACIÓ PROFESSIONAL (IPOP) FITXA 1
 #### PERFIL PROFESSIONAL DEL TÍTOL
 
 [IPOP-Fitxa1b-Sa Palomera](https://github.com/albaamatamoros/DAW-IPOP/blob/main/FITXES%20IPOP/IPOP-Fitxa1b-Sa%20Palomera.pdf)
@@ -74,7 +74,7 @@
 | -	Desenvolupar components multimèdia per a la seva integració en aplicacions web, utilitzant eines específiques i seguint les especificacions establertes. |
 | -	Integrar components multimèdia en la interfície d’una aplicació web, realitzant l’anàlisi d’interactivitat, accessibilitat i usabilitat de l’aplicació. |
 
-#### INFORME PERSONAL D'ORIENTACIÓ PROFESSIONAL (IPOP) FITXA 2
+### INFORME PERSONAL D'ORIENTACIÓ PROFESSIONAL (IPOP) FITXA 2
 #### ÀMBITS DE CONEIXEMENT
 [IPOP-Fitxa2b-Sa Palomera](https://github.com/albaamatamoros/DAW-IPOP/blob/main/FITXES%20IPOP/IPOP-Fitxa2b-Sa%20Palomera.pdf)
 
