@@ -45,7 +45,7 @@
 | Projecte de desenvolupament d'aplicacions web | 99 hores |
 | Formació en centres de treball | 317 hores |
 
-| AMB EL TÍTOL QUE OBTINDRÀS, QUINA FEINA PODRÀS FER (OCUPACIONS O LLOCS DE TREBALL)? (MÍN. 3 EXEMPLES))|
+| AMB EL TÍTOL QUE OBTINDRÀS, QUINA FEINA PODRÀS FER (OCUPACIONS O LLOCS DE TREBALL)? (MÍN. 3 EXEMPLES) |
 |---|
 | - Programador web. |
 | - Programador multimèdia. | 
