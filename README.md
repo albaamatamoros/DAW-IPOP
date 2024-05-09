@@ -80,10 +80,10 @@
 
 | IDENTIFICACIÓ DEL TÍTOL | UNITATS DE COMPETÈNCIA | MÒDULS PROFESSIONALS |
 |---|---|---|
-| QUALIFICACIÓ COMPLETA: | MP1. Sistemes informàtics |
+| QUALIFICACIÓ COMPLETA: | UC_2-0491-11_3: desenvolupar elements software a l’entorn client | MP1. Sistemes informàtics |
 | IC_2154_3 Desenvolupament d’aplicacions amb tecnologies web | UC_2-0492-11_3: desenvolupar elements software a l’entorn servidor | MP2. Bases de dades |
 | IC_2-155_3 Programació en llenguatges estructurats d’aplicacions de gestió | UC_2-0493-11_3: implementar, verificar i documentar aplicacions web en entorns internet, intranet i extranet | MP6. Desenvolupament web en entorn client |
-| QUALIFICACIÓ INCOMPLETA: | UC_2-0491-11_3: desenvolupar elements software a l’entorn client| UC_2-0223-11_3: configurar i explotar sistemes informàtics | MP9. Disseny d’interfícies web |
+| QUALIFICACIÓ INCOMPLETA: | UC_2-0223-11_3: configurar i explotar sistemes informàtics | MP9. Disseny d’interfícies web |
 | IC_2-080_3 Programació amb llenguatges orientats a objectes i bases de dades relacionals | UC_2-0226-11_3: gestionar bases de dades relacionals | MP8. Desplegament d’aplicacions web |
 
 | ÀREA DE CONEIXEMENT |
