@@ -25,6 +25,12 @@
 |---|
 |La competència general d’aquest títol consisteix a desenvolupar, implantar i mantenir aplicacions web, amb independència del model emprat i utilitzant tecnologies específiques, garantint l’accés a les dades de forma segura i complint els criteris d’accessibilitat, usabilitat i qualitat exigides en els estàndards establerts.|
 
+| Capacitats clau  |
+|---|
+|Són les capacitats transversals que afecten diferents llocs de treball i que són transferibles a noves situacions
+de treball. Entre aquestes capacitats destaquen les d’autonomia, d’innovació, d’organització del treball, de
+responsabilitat, de relació interpersonal, de treball en equip i de resolució de problemes.|
+
 
 
 
