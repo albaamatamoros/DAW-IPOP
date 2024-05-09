@@ -80,3 +80,13 @@
 | QUALIFICACIÓ INCOMPLETA: IC_2-080_3 Programació amb llenguatges orientats a objectes i bases de dades relacionals| UC_2-0493-11_3: implementar, verificar i documentar aplicacions web en entorns internet, intranet i extranet | MP6. Desenvolupament web en entorn client |
 | | UC_2-0223-11_3: configurar i explotar sistemes informàtics | MP9. Disseny d’interfícies web |
 || UC_2-0226-11_3: gestionar bases de dades relacionals | MP8. Desplegament d’aplicacions web |
+
+| ÀREA DE CONEIXEMENT |
+|---|
+|Llenguatges i sistemes informatics|
+
+| OCUPACIONS RELACIONADES |
+|---|
+| - Programador web. |
+| - Programador multimèdia. |
+| - Desenvolupador d’aplicacions en entorns web. |
