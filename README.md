@@ -14,4 +14,11 @@
 
 [IPOP-Fitxa1b-Sa Palomera](https://github.com/albaamatamoros/DAW-IPOP/blob/main/FITXES%20IPOP/IPOP-Fitxa1b-Sa%20Palomera.pdf)
 
+| COMPETÈNCIA GENERAL  |
+|---|
+|La competència general d’aquest títol consisteix a desenvolupar, implantar i mantenir aplicacions web, amb independència del model emprat i utilitzant tecnologies específiques, garantint l’accés a les dades de forma segura i complint els criteris d’accessibilitat, usabilitat i qualitat exigides en els estàndards establerts.|
+
+
+
+
 [IPOP-Fitxa2b-Sa Palomera](https://github.com/albaamatamoros/DAW-IPOP/blob/main/FITXES%20IPOP/IPOP-Fitxa2b-Sa%20Palomera.pdf)
