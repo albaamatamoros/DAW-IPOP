@@ -27,9 +27,7 @@
 
 | Capacitats clau  |
 |---|
-|Són les capacitats transversals que afecten diferents llocs de treball i que són transferibles a noves situacions
-de treball. Entre aquestes capacitats destaquen les d’autonomia, d’innovació, d’organització del treball, de
-responsabilitat, de relació interpersonal, de treball en equip i de resolució de problemes.|
+|Són les capacitats transversals que afecten diferents llocs de treball i que són transferibles a noves situacions de treball. Entre aquestes capacitats destaquen les d’autonomia, d’innovació, d’organització del treball, de responsabilitat, de relació interpersonal, de treball en equip i de resolució de problemes.|
 
 
 
